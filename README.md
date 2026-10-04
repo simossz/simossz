@@ -1,4 +1,4 @@
-# Hi, I'm Simone 👋
+## Hi, I'm Simone 👋
 
 I'm Italian and I'm learning to code.
 
